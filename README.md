@@ -52,7 +52,7 @@
 
  <h2 align="left">Support:</h2> 
 
- <p><a href="https://www.buymeacoffee.com/Hezron"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br> 
+ <p><a href="https://www.buymeacoffee.com/HezronSim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br> 
 
   
 
