@@ -20,7 +20,7 @@
 
  * [Twitter](https://twitter.com/Hezron-Simumba) 
 
- * [Email](https://simumbahezron@gmail.com) 
+ * [Email](mailto:simumbahezron@gmail.com) 
 
   
 
